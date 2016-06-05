@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cadastro Pessoa</string>
+    <string name="title_activity_resultado">Resultado</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="telefone">Telefone</string>
+    <string name="rg">RG</string>
+    <string name="sexo">Sexo</string>
+    <string name="idade">Idade</string>
+    <string name="estadoCivil">Estado Civil</string>
+    <string name="name">Name</string>
+    <string name="enviar">Enviar</string>
+    <string name="invalido">*Invalido</string>
+    <string-array name="SpinneEstadoCivil">
+        <item>  </item>
+        <item>Solteiro</item>
+        <item>Casado</item>
+        <item>Viúvo</item>
+        <item>Divorciado</item>
+        <item>Separado</item>
+    </string-array>
+    <string-array name="Spinnesexo">
+        <item>  </item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
